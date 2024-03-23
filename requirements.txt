@@ -1,0 +1,6 @@
+gym==0.21.0
+pyglet==1.5.27
+box2d-py==2.3.8
+pytorch==1.13.1
+tqdm==4.65.0
+numpy
