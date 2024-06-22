@@ -7,4 +7,8 @@ The cartpole balancing problem involves balancing a pole on a cart that can move
 - **Linear Quadratic Regulator (LQR)**: A classical control method that computes optimal control inputs based on a linearized dynamics model of the cartpole system.
 
 ## Dependencies
-To run the code in this repository, follow requirements.txt
+To run the code in this repository, install the requirements from requirements.txt. Then, run the following. \
+```python Cartpole_DQN/test.py```  or ```python Cartpole_LQR/test.py```
+
+
+
